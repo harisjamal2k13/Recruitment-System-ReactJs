@@ -1,0 +1,26 @@
+
+.signUp_css{
+    background-color: #2C3E50;
+}
+input{
+   width:  25%;
+   padding:  12px 20px;
+   margin :8px 0;
+   box-sizing:border-box;
+   display: inline-block;
+   
+}
+label{
+    color: #ffffff;
+   display: inline-block;
+   clear: left;
+   width: 250px;
+   text-align: justify;
+   border: saddlebrown;
+}
+button{
+   width: 200px;
+    margin-left: 260px;
+    background-color: olivedrab;
+  text-align: center;
+}

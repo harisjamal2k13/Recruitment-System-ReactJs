@@ -1,0 +1,26 @@
+.panel-body{
+
+    margin-left: 500px;
+}
+th {
+    background-color: dodgerblue;
+    color: white;
+    height: 50px;
+    padding-right: 100px;
+    padding-left: 100px
+}
+table{
+  
+    width: 40%;
+}
+tr{
+   height: 50px;
+   background-color:burlywood;
+   width: 40%;
+   color: white;
+}
+
+button{
+    background-color: dodgerblue;
+    color:white;
+}
